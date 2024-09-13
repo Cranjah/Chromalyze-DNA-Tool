@@ -1,4 +1,4 @@
-## CDNA-SEQUENCERS
+## CHROMALYZE DNA TOOLS
 ### Video Demo: [Click here to get forwarded to YouTube video demonstration](https://youtu.be/LBu73txCqSA?si=ZXypzAd-9SSb1Uhx)
 
 ### Description of the Functionalities:
