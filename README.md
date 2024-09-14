@@ -1,4 +1,4 @@
-## CHROMALYZE DNA TOOLS
+## CHROMALYZE DNA TOOL
 ### Video Demo: [Click here to get forwarded to YouTube video demonstration](https://youtu.be/LBu73txCqSA?si=ZXypzAd-9SSb1Uhx)
 
 ### Description of the Functionalities:
